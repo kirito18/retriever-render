@@ -1,0 +1,8 @@
+# Ignorar artefactos de build
+build/
+dist/
+__pycache__/
+.env
+.venv
+*.pyc
+*.log
